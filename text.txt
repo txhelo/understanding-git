@@ -1,1 +1,2 @@
 This is my first project, only to understand how to use Git and GitHub :)
+This row is about an commit after the start project;
